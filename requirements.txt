@@ -1,0 +1,15 @@
+# Dependencias base
+# Añade aquí las librerías específicas que necesites
+
+# Común para proyectos con OpenAI
+# openai>=1.0.0
+
+# Común para notebooks
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
+
+# Común para data science
+# pandas>=2.0.0
+# numpy>=1.24.0
+
+# Añade las dependencias específicas de tu proyecto aquí
